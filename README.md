@@ -1,8 +1,8 @@
-Задача:
+Задача:\
 Реализовать программу для управления учетными записями и контролем
 доступа в ОС Windows, использующую возможности Windows API.
 
-Команды:
+Команды:\
 [get]  > Get a list of users and groups\
 [user]  > Add a user\
 [group]  > Add a group\
