@@ -11,4 +11,4 @@
 [removeprv]  > Add privileges to the user/group\
 [du/dg]  > Delete a user/group\
 [move]  > Add a user to a group\
-[remove]  > Remove a user from a group\
+[remove]  > Remove a user from a group
